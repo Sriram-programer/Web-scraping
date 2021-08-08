@@ -4,8 +4,8 @@ Web scraping can be done by various modules in python. Here I used selenium webd
 # Selenium
 Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language (Selenium IDE). It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages, including C#, Groovy, Java, Perl, PHP, Python, Ruby and Scala. The tests can then run against most modern web browsers. Selenium runs on Windows, Linux, and macOS. It is open-source software released under the Apache License 2.0.
 
-Read more about selenium in this documentation
-[Documentation](https://www.selenium.dev/documentation/)
+Read more about selenium in this
+[documentation](https://www.selenium.dev/documentation/)
 
 Walmart is one of the e-commerce websites and from this site we are going to fetch users reviews about Clorox-Disinfecting-Wipes product. Reviews helps us to understand more about the product on practical use.
 
